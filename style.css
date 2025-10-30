@@ -1,15 +1,44 @@
+/* Change these colors to personalize your background and text */
 body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin-top: 100px;
-  background: linear-gradient(to bottom, #cce5ff, #ffffff);
+  background: linear-gradient(to bottom, #d0ebff, #ffffff);
   color: #003366;
 }
 
+/* Adjust the main title font size or color */
 h1 {
   font-size: 2.5em;
+  color: #004c99;
 }
 
+/* ✏️ Adjust text style */
 p {
   font-size: 1.2em;
+}
+
+/* 🐱Resize or round the image */
+.cat-img {
+  margin-top: 20px;
+  border-radius: 10px;
+  width: 300px;
+  height: auto;
+}
+
+/*  Style the button — try changing its color! */
+button {
+  margin-top: 25px;
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* Change what happens when hovering over the button */
+button:hover {
+  background-color: #004c99;
 }
