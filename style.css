@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  background: linear-gradient(to bottom, #cce5ff, #ffffff);
+  color: #003366;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.2em;
+}
